@@ -1,0 +1,12 @@
+Player		Mat	Runs	HS	100	
+Inzamam-ul-Haq	375	11701	137	10
+Mohammad-Yousuf	281	9554	141	15
+Saeed-Anwar	247	8824	194	20	
+Shahid-Afridi	373	7582	124	6	
+Javed-Miandad	233	7381	119	8	
+Saleem-Malik	283	7170	102	5	
+Younis-Khan	253	7014	144	6
+Ijaz-Ahmed	250	6564	139	10
+Rameez-Raja	198	5841	119	9
+Shoaib-Malik	216	5490	143	7
+
